@@ -1,6 +1,6 @@
-# Text2NeRF: Text-Driven 3D Scene Generation with Neural Radiance Fields
+# VQ-NeRF
 
-This is the repository that contains source code for the [Text2NeRF Home Page](https://eckertzhang.github.io/Text2NeRF.github.io/).
+This is the repository that contains source code for the [VQ-NeRF Home Page](https://jtbzhl.github.io/pro_demo2/).
 
 If you find Text2NeRF useful for your work please cite:
 ```
