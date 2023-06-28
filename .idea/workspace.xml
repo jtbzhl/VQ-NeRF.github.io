@@ -1,0 +1,351 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="602abcb1-98cb-4ba9-bf4b-0352c93a6b54" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/images/pipeline.png" beforeDir="false" afterPath="$PROJECT_DIR$/static/images/pipeline.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/images/teaser.png" beforeDir="false" afterPath="$PROJECT_DIR$/static/images/teaser.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/video/000_garden.mp4" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/video/001_garden.mp4" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/video/001_garden_d.mp4" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/video/002_garden.mp4" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/video/002_garden_d.mp4" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/video/003_garden.mp4" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/video/003_garden_d.mp4" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/video/102_bedroom.mp4" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/video/103_bedroom.mp4" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/video/103_bedroom_d.mp4" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/video/104_bedroom.mp4" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/video/202_car.mp4" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/video/206_car.mp4" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/video/206_car_d.mp4" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/video/208_car.mp4" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/video/208_car_d.mp4" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/video/300_living.mp4" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/video/300_living_d.mp4" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/video/301_living.mp4" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/video/303_living.mp4" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/video/304_living.mp4" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/video/304_living_d.mp4" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/video/400_bonsai.mp4" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/video/400_bonsai_d.mp4" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/video/502_train.mp4" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/video/503_train.mp4" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/video/503_train_d.mp4" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/video/504_train.mp4" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/video/504_train_d.mp4" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/video/602_dog.mp4" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/video/604_dog.mp4" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/video/604_dog_d.mp4" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/video/700_cabin.mp4" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/video/701_cabin.mp4" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/video/701_cabin_d.mp4" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/video/750_street.mp4" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/video/750_street_d.mp4" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/video/751_street.mp4" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/video/751_street_d.mp4" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/video/760_kitchen.mp4" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/video/760_kitchen_d.mp4" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/video/763_kitchen.mp4" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/video/763_kitchen_d.mp4" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/video/772_castle.mp4" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/video/772_castle_d.mp4" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/video/950_venezia.mp4" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/video/950_venezia_d.mp4" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/video/960_future.mp4" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/video/960_future_d.mp4" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/video/961_future.mp4" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/video/961_future_d.mp4" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/video/970_unicorn.mp4" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/video/970_unicorn_d.mp4" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/video/c_forest1.mp4" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/video/c_forest1_d.mp4" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/video/c_forest2.mp4" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/video/c_forest2_d.mp4" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/video/c_garden1.mp4" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/video/c_garden1_d.mp4" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/video/c_garden2.mp4" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/video/c_garden2_d.mp4" beforeDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/index.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="113">
+              <caret line="87" column="53" selection-start-line="87" selection-start-column="53" selection-end-line="87" selection-end-column="53" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/../../videos/real_relit_comp.py" />
+        <option value="$PROJECT_DIR$/../../videos/pro_relit_comp.py" />
+        <option value="$PROJECT_DIR$/../../videos/page_video.py" />
+        <option value="$PROJECT_DIR$/index.html" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectConfigurationFiles">
+    <option name="files">
+      <list>
+        <option value="$PROJECT_DIR$/.idea/pro_demo2.iml" />
+        <option value="$PROJECT_DIR$/.idea/misc.xml" />
+        <option value="$PROJECT_DIR$/.idea/modules.xml" />
+        <option value="$PROJECT_DIR$/.idea/vcs.xml" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="100" />
+    <option name="y" value="5" />
+    <option name="width" value="1750" />
+    <option name="height" value="980" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="pro_demo2" type="b2602c69:ProjectViewProjectNode" />
+              <item name="pro_demo2" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="pro_demo2" type="b2602c69:ProjectViewProjectNode" />
+              <item name="pro_demo2" type="462c0819:PsiDirectoryNode" />
+              <item name="static" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Python.page_video">
+    <configuration name="page_video" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="pro_demo2" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/../../videos" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/../../videos/page_video.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="pro_relit_comp" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="pro_demo2" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/../../videos" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="E:\留学\申请\2022\mphil\tvcg\videos\page_video.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="real_relit_comp" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="pro_demo2" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/../../videos" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/../../videos/real_relit_comp.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.page_video" />
+        <item itemvalue="Python.pro_relit_comp" />
+        <item itemvalue="Python.real_relit_comp" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="602abcb1-98cb-4ba9-bf4b-0352c93a6b54" name="Default Changelist" comment="" />
+      <created>1687849173564</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1687849173564</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24966975" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.3286119" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Version Control" order="7" />
+      <window_info anchor="bottom" id="Terminal" order="8" />
+      <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
+      <window_info anchor="bottom" id="Python Console" order="10" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+    </layout>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/../../videos/raw2dst.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="403">
+          <caret line="55" column="28" lean-forward="true" selection-start-line="55" selection-start-column="28" selection-end-line="55" selection-end-column="28" />
+          <folding>
+            <element signature="e#0#10#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../videos/pro_page/real_relit_comp.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-69">
+          <folding>
+            <element signature="e#0#10#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/.PyCharmCE2019.1/system/python_stubs/315329600/cv2/VideoWriter.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="81" column="32" selection-start-line="81" selection-start-column="32" selection-end-line="81" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/.PyCharmCE2019.1/system/python_stubs/315329600/cv2/__init__.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-58">
+          <caret line="10891" column="4" selection-start-line="10891" selection-start-column="4" selection-end-line="10891" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../videos/cg_relit_comp.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="138">
+          <caret line="117" selection-start-line="117" selection-end-line="117" selection-end-column="40" />
+          <folding>
+            <element signature="e#0#10#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../videos/real_relit_comp.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="299">
+          <caret line="13" column="14" lean-forward="true" selection-end-line="155" />
+          <folding>
+            <element signature="e#0#10#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../videos/pause.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../videos/page_video.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-138">
+          <caret line="15" column="18" selection-start-line="15" selection-start-column="18" selection-end-line="15" selection-end-column="18" />
+          <folding>
+            <element signature="e#0#10#0" expanded="true" />
+            <element signature="e#463#1920#0" />
+            <element signature="e#1949#3175#0" />
+            <element signature="e#3454#3976#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../Text2NeRF.github.io-main/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="276">
+          <caret line="636" column="48" selection-start-line="636" selection-start-column="48" selection-end-line="636" selection-end-column="89" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="113">
+          <caret line="87" column="53" selection-start-line="87" selection-start-column="53" selection-end-line="87" selection-end-column="53" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
