@@ -1,6 +1,6 @@
 # VQ-NeRF
 
-This is the repository that contains source code for the [VQ-NeRF Home Page](https://jtbzhl.github.io/pro_demo2/).
+This is the repository that contains source code for the [VQ-NeRF Home Page](https://jtbzhl.github.io/VQ-NeRF.github.io/).
 
 If you find VQ-NeRF useful for your work please cite:
 ```

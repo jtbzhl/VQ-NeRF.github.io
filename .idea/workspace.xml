@@ -2,70 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="602abcb1-98cb-4ba9-bf4b-0352c93a6b54" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/images/pipeline.png" beforeDir="false" afterPath="$PROJECT_DIR$/static/images/pipeline.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/images/teaser.png" beforeDir="false" afterPath="$PROJECT_DIR$/static/images/teaser.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/video/000_garden.mp4" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/video/001_garden.mp4" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/video/001_garden_d.mp4" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/video/002_garden.mp4" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/video/002_garden_d.mp4" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/video/003_garden.mp4" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/video/003_garden_d.mp4" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/video/102_bedroom.mp4" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/video/103_bedroom.mp4" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/video/103_bedroom_d.mp4" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/video/104_bedroom.mp4" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/video/202_car.mp4" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/video/206_car.mp4" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/video/206_car_d.mp4" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/video/208_car.mp4" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/video/208_car_d.mp4" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/video/300_living.mp4" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/video/300_living_d.mp4" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/video/301_living.mp4" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/video/303_living.mp4" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/video/304_living.mp4" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/video/304_living_d.mp4" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/video/400_bonsai.mp4" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/video/400_bonsai_d.mp4" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/video/502_train.mp4" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/video/503_train.mp4" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/video/503_train_d.mp4" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/video/504_train.mp4" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/video/504_train_d.mp4" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/video/602_dog.mp4" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/video/604_dog.mp4" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/video/604_dog_d.mp4" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/video/700_cabin.mp4" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/video/701_cabin.mp4" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/video/701_cabin_d.mp4" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/video/750_street.mp4" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/video/750_street_d.mp4" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/video/751_street.mp4" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/video/751_street_d.mp4" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/video/760_kitchen.mp4" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/video/760_kitchen_d.mp4" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/video/763_kitchen.mp4" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/video/763_kitchen_d.mp4" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/video/772_castle.mp4" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/video/772_castle_d.mp4" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/video/950_venezia.mp4" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/video/950_venezia_d.mp4" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/video/960_future.mp4" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/video/960_future_d.mp4" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/video/961_future.mp4" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/video/961_future_d.mp4" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/video/970_unicorn.mp4" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/video/970_unicorn_d.mp4" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/video/c_forest1.mp4" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/video/c_forest1_d.mp4" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/video/c_forest2.mp4" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/video/c_forest2_d.mp4" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/video/c_garden1.mp4" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/video/c_garden1_d.mp4" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/video/c_garden2.mp4" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/video/c_garden2_d.mp4" beforeDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -78,8 +16,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="113">
-              <caret line="87" column="53" selection-start-line="87" selection-start-column="53" selection-end-line="87" selection-end-column="53" />
+            <state relative-caret-position="161">
+              <caret line="187" column="55" selection-start-line="187" selection-start-column="46" selection-end-line="187" selection-end-column="55" />
             </state>
           </provider>
         </entry>
@@ -140,6 +78,7 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
@@ -342,8 +281,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="113">
-          <caret line="87" column="53" selection-start-line="87" selection-start-column="53" selection-end-line="87" selection-end-column="53" />
+        <state relative-caret-position="161">
+          <caret line="187" column="55" selection-start-line="187" selection-start-column="46" selection-end-line="187" selection-end-column="55" />
         </state>
       </provider>
     </entry>
