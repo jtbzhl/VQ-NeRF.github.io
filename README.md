@@ -1,6 +1,6 @@
 # VQ-NeRF
 
-This is the repository that contains source code for the [VQ-NeRF Home Page](https://jtbzhl.github.io/VQ-NeRF.github.io/).
+This is the repository for [VQ-NeRF Home Page](https://jtbzhl.github.io/VQ-NeRF.github.io/).
 
 Accepted by IEEE Transactions on Visualization and Computer Graphics (TVCG).
 
